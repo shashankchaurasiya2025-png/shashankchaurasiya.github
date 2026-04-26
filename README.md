@@ -1,27 +1,27 @@
  **Hi there, I'm Shashank Chaurasiya**
 
-🎓 **PGDM Student | Marketing & Data Analytics**  
-📊 Passionate about **Marketing Analytics, Digital Marketing, and Data-Driven Decision Making**  
-🚀 Focused on building skills in **consumer behavior analysis, brand growth, and business intelligence**
+ **PGDM Student | Marketing & Data Analytics**  
+Passionate about **Marketing Analytics, Digital Marketing, and Data-Driven Decision Making**  
+Focused on building skills in **consumer behavior analysis, brand growth, and business intelligence**
 
 ---
 
-## 📌 About Me
+## About Me
 
 I am a motivated **Marketing and Data Analytics** student with hands-on experience in **market research, customer engagement, digital marketing, and analytics tools**. I enjoy solving business problems through **data insights, strategic thinking, and creative marketing solutions**.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- 📞 **Phone:** 9795447781  
-- 📧 **Email:** shashank.chaurasiya2025@glbimr.org  
-- 🔗 **LinkedIn:** [linkedin.com/in/shashank-chaurasiya](https://www.linkedin.com/in/shashank-chaurasiya)  
-- 📍 **Location:** Ghazipur, Uttar Pradesh, India  
+- **Phone:** 9795447781  
+- **Email:** shashank.chaurasiya2025@glbimr.org  
+- **LinkedIn:** [linkedin.com/in/shashank-chaurasiya](https://www.linkedin.com/in/shashank-chaurasiya-439528230)  
+- **Location:** Ghazipur, Uttar Pradesh, India  
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 ![MS Office](https://img.shields.io/badge/MS_Office-Expert-blue?style=for-the-badge&logo=microsoftoffice)
 ![SPSS](https://img.shields.io/badge/SPSS-Analytics-blue?style=for-the-badge)
@@ -41,7 +41,7 @@ I am a motivated **Marketing and Data Analytics** student with hands-on experien
 
 ---
 
-## 🎓 Education
+##  Education
 
 | Degree | Institution | Year |
 |--------|-------------|------|
@@ -52,7 +52,7 @@ I am a motivated **Marketing and Data Analytics** student with hands-on experien
 
 ---
 
-## 💼 Live Project Experience
+##  Live Project Experience
 
 ### Dabur India Ltd
 - Engaged with **80+ customers** at Smart Bazaar through direct promotion.
@@ -62,7 +62,7 @@ I am a motivated **Marketing and Data Analytics** student with hands-on experien
 
 ---
 
-## 📚 Academic Projects
+##  Academic Projects
 
 ### Customer Satisfaction Study
 **A Comparative Study of Customer Satisfaction Between Amazon & Flipkart**
@@ -76,7 +76,7 @@ I am a motivated **Marketing and Data Analytics** student with hands-on experien
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 - Advanced MS Office  
 - SPSS  
@@ -86,15 +86,15 @@ I am a motivated **Marketing and Data Analytics** student with hands-on experien
 
 ---
 
-## 🏅 Achievements
+##  Achievements
 
-- 🥇 Secured **1st Rank** in graduation and awarded **“Mr. Erudite”**
-- 🥈 Secured **2nd Position** in **GLB Haat Rampwalk**
-- 🎨 Participated in **Digital Poster Making Competition**
+-  Secured **1st Rank** in graduation and awarded **“Mr. Erudite”**
+-  Secured **2nd Position** in **GLB Haat Rampwalk**
+-  Participated in **Digital Poster Making Competition**
 
 ---
 
-## 📈 Workshops & Industry Exposure
+##  Workshops & Industry Exposure
 
 - International Marketing Summit  
 - From Data to Decisions  
@@ -103,7 +103,7 @@ I am a motivated **Marketing and Data Analytics** student with hands-on experien
 
 ---
 
-## 🎯 Career Interests
+##  Career Interests
 
 - Marketing Analytics  
 - Business Intelligence  
@@ -114,19 +114,19 @@ I am a motivated **Marketing and Data Analytics** student with hands-on experien
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I am always open to connecting with professionals, recruiters, and fellow learners in the domains of **Marketing, Analytics, and Digital Strategy**.
 
-🔗 **LinkedIn:**  
-[https://www.linkedin.com/in/shashank-chaurasiya](https://www.linkedin.com/in/shashank-chaurasiya)
+ **LinkedIn:**  
+[https://www.linkedin.com/in/shashank-chaurasiya](https://www.linkedin.com/in/shashank-chaurasiya-439528230)
 
 ---
 
-⭐ *Thank you for visiting my profile!*
+ *Thank you for visiting my profile!*
