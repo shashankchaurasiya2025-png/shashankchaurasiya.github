@@ -1,1 +1,132 @@
-# shashankchaurasiya.github
+ **Hi there, I'm Shashank Chaurasiya**
+
+🎓 **PGDM Student | Marketing & Data Analytics**  
+📊 Passionate about **Marketing Analytics, Digital Marketing, and Data-Driven Decision Making**  
+🚀 Focused on building skills in **consumer behavior analysis, brand growth, and business intelligence**
+
+---
+
+## 📌 About Me
+
+I am a motivated **Marketing and Data Analytics** student with hands-on experience in **market research, customer engagement, digital marketing, and analytics tools**. I enjoy solving business problems through **data insights, strategic thinking, and creative marketing solutions**.
+
+---
+
+## 📫 Contact Me
+
+- 📞 **Phone:** 9795447781  
+- 📧 **Email:** shashank.chaurasiya2025@glbimr.org  
+- 🔗 **LinkedIn:** [linkedin.com/in/shashank-chaurasiya](https://www.linkedin.com/in/shashank-chaurasiya)  
+- 📍 **Location:** Ghazipur, Uttar Pradesh, India  
+
+---
+
+## 🛠 Skills & Tools
+
+![MS Office](https://img.shields.io/badge/MS_Office-Expert-blue?style=for-the-badge&logo=microsoftoffice)
+![SPSS](https://img.shields.io/badge/SPSS-Analytics-blue?style=for-the-badge)
+![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-Marketing-green?style=for-the-badge)
+![Tally](https://img.shields.io/badge/Tally-Accounting-orange?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-Insights-red?style=for-the-badge)
+
+### Core Competencies
+- Marketing Analytics  
+- Consumer Behavior  
+- Digital Marketing  
+- Customer Engagement  
+- Market Research  
+- Team Collaboration  
+- Problem Solving  
+- Communication Skills  
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| PGDM in Marketing & Data Analytics | GL Bajaj Institute of Management and Research | 2025 - 2027 |
+| B.Com (Hons.) | School of Management Science | 2022 - 2025 |
+| XII (CBSE) | Kendriya Vidyalaya School | 2020 - 2022 |
+| X (CBSE) | Evergreen Public School | 2020 |
+
+---
+
+## 💼 Live Project Experience
+
+### Dabur India Ltd
+- Engaged with **80+ customers** at Smart Bazaar through direct promotion.
+- Generated sales of **50 bottles** of Anmol Gold Coconut Oil in **2 weeks**.
+- Promoted **5 Dabur products**, increasing awareness and purchase intent.
+- Conducted competitor analysis on **5 rival brands** for pricing and promotions.
+
+---
+
+## 📚 Academic Projects
+
+### Customer Satisfaction Study
+**A Comparative Study of Customer Satisfaction Between Amazon & Flipkart**
+- Analyzed customer preferences and service quality.
+- Compared e-commerce customer satisfaction metrics.
+
+### Labor Market Analysis
+**Comparative Analysis of Labor Market Efficiency of Indian and Neighboring Countries**
+- Conducted comparative market research.
+- Evaluated labor efficiency indicators.
+
+---
+
+## 🏆 Certifications
+
+- Advanced MS Office  
+- SPSS  
+- Tally Accounting  
+- Introduction to Digital Marketing  
+- VACC Certification  
+
+---
+
+## 🏅 Achievements
+
+- 🥇 Secured **1st Rank** in graduation and awarded **“Mr. Erudite”**
+- 🥈 Secured **2nd Position** in **GLB Haat Rampwalk**
+- 🎨 Participated in **Digital Poster Making Competition**
+
+---
+
+## 📈 Workshops & Industry Exposure
+
+- International Marketing Summit  
+- From Data to Decisions  
+- Marketing in the AI Era  
+- Performance Marketing in E-Commerce  
+
+---
+
+## 🎯 Career Interests
+
+- Marketing Analytics  
+- Business Intelligence  
+- Brand Strategy  
+- Consumer Insights  
+- Digital Marketing  
+- Data Visualization  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+---
+
+## 🤝 Let's Connect
+
+I am always open to connecting with professionals, recruiters, and fellow learners in the domains of **Marketing, Analytics, and Digital Strategy**.
+
+🔗 **LinkedIn:**  
+[https://www.linkedin.com/in/shashank-chaurasiya](https://www.linkedin.com/in/shashank-chaurasiya)
+
+---
+
+⭐ *Thank you for visiting my profile!*
